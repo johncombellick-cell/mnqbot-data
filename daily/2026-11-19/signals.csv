@@ -1,0 +1,9 @@
+run_id,ts,action,direction,reason,price,stop_price,sl_points,tp_points
+23,2026-11-19T14:35:00+00:00,skip,SHORT,stop 164.00 pts outside 4-60,27663.5,27827.5,164.0,
+23,2026-11-19T14:40:00+00:00,skip,LONG,stop 132.00 pts outside 4-60,27808.5,27676.5,132.0,
+23,2026-11-19T14:45:00+00:00,skip,SHORT,stop 116.25 pts outside 4-60,27683.25,27799.5,116.25,
+23,2026-11-19T14:50:08.357327+00:00,enter,SHORT,reclaimed green candle open (09:45),27786.5,27823.5,37.0,55.5
+23,2026-11-19T14:55:00+00:00,skip,LONG,stop 156.25 pts outside 4-60,27811.0,27654.75,156.25,
+23,2026-11-19T15:00:05.472477+00:00,enter,SHORT,reclaimed green candle open (09:55),27666.25,27700.25,34.0,51.0
+23,2026-11-19T15:05:00+00:00,skip,SHORT,stop 75.25 pts outside 4-60,27680.0,27755.25,75.25,
+23,2026-11-19T15:10:00+00:00,skip,LONG,stop 69.50 pts outside 4-60,27751.0,27681.5,69.5,

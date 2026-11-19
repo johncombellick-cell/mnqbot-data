@@ -1,0 +1,2 @@
+id,strategy,version,started_at,ended_at,end_reason
+4,sweep-shift,1.0,2026-10-23T13:31:04.921560+00:00,2026-10-23T19:46:00.320924+00:00,session end

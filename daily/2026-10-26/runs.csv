@@ -1,0 +1,2 @@
+id,strategy,version,started_at,ended_at,end_reason
+5,sweep-shift,1.0,2026-10-26T13:31:04.964461+00:00,2026-10-26T18:10:24.852711+00:00,stopped by user

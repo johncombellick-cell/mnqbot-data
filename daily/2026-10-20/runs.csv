@@ -1,0 +1,2 @@
+id,strategy,version,started_at,ended_at,end_reason
+1,vwap-pullback,1.0,2026-10-20T17:53:37.061119+00:00,2026-10-20T19:11:58.014326+00:00,stopped by user

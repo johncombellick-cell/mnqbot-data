@@ -1,0 +1,5 @@
+run_id,ts,action,direction,reason,price,stop_price,sl_points,tp_points
+3,2026-10-22T15:13:00+00:00,setup,LONG,"grab of session_low,recent_low_20 after 97.50-pt move, wick 29228.00, rvol 1.8",29252.75,,,
+3,2026-10-22T15:15:00+00:00,skip,LONG,grab extreme broken (29228.00),29242.75,,,
+3,2026-10-22T19:01:00+00:00,setup,LONG,"grab of session_low,recent_low_20 after 59.25-pt move, wick 29067.75, rvol 1.5",29077.5,,,
+3,2026-10-22T19:02:00+00:00,skip,LONG,grab extreme broken (29067.75),29060.0,,,

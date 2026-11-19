@@ -1,0 +1,2 @@
+id,strategy,version,started_at,ended_at,end_reason
+12,reclaim,2.0,2026-11-04T14:31:04.804998+00:00,2026-11-04T20:31:00.182721+00:00,session end

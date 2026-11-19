@@ -1,0 +1,12 @@
+run_id,ts,action,direction,reason,price,stop_price,sl_points,tp_points
+6,2026-10-27T13:35:00+00:00,skip,SHORT,stop 70.25 pts outside 4-60,29560.75,29631.0,70.25,
+6,2026-10-27T13:45:27.265959+00:00,enter,LONG,reclaimed red candle open (09:40),29675.0,29626.25,48.75,73.0
+6,2026-10-27T13:50:00+00:00,skip,LONG,stop 101.50 pts outside 4-60,29648.75,29547.25,101.5,
+6,2026-10-27T13:55:51.156818+00:00,enter,SHORT,reclaimed green candle open (09:50),29551.75,29577.5,25.75,38.5
+6,2026-10-27T14:00:31.533327+00:00,enter,SHORT,reclaimed green candle open (09:55),29558.5,29585.5,27.0,40.5
+6,2026-10-27T14:20:26.498139+00:00,enter,LONG,reclaimed red candle open (10:15),29524.25,29493.5,30.75,46.0
+6,2026-10-27T14:35:00+00:00,skip,SHORT,stop 61.75 pts outside 4-60,29610.75,29672.5,61.75,
+6,2026-10-27T14:40:05.953585+00:00,enter,LONG,reclaimed red candle open (10:35),29652.0,29610.75,41.25,62.0
+6,2026-10-27T15:12:49.769485+00:00,enter,LONG,reclaimed red candle open (11:05),29731.75,29716.75,15.0,22.5
+6,2026-10-27T15:37:33.732724+00:00,enter,LONG,reclaimed red candle open (11:30),29767.5,29742.5,25.0,37.5
+6,2026-10-27T15:50:34.442373+00:00,enter,SHORT,reclaimed green candle open (11:45),29815.5,29823.5,8.0,12.0
